@@ -1,0 +1,46 @@
+/* this is a block of CSS rules */
+
+p {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+/* this is another block */
+h1 {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+h2 {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+title {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+html {
+    background-color: #262b1f
+}
+
+li {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+th {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+td {
+    color: #F8F8FF;
+    font-family: monospace;
+}
+
+a {
+    color: #9370DB;
+    font-family: monospace;
+}
