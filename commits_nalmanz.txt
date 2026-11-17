@@ -1,3 +1,21 @@
+commit aaac468d20355f804cc6ce03b95ab98e96005613
+Author: Natalie Almanzar <nalmanz@ncsu.edu>
+Date:   Mon Nov 16 20:06:54 2026 -0500
+
+    added punctuation
+
+commit eea14a8d9b1b823ff736b5c67d98056e48a0def4
+Author: Natalie Almanzar <nalmanz@ncsu.edu>
+Date:   Mon Nov 16 20:00:34 2026 -0500
+
+    updated formatting
+
+commit 65cdebcf9129fb775c4e9349c6705ca2060433e0
+Author: Natalie Almanzar <nalmanz@ncsu.edu>
+Date:   Mon Nov 16 19:56:51 2026 -0500
+
+    updating file names
+
 commit 9a71d6fa20f505e19d93ea5abb3c0afab179ed24
 Author: Natalie Almanzar <nalmanz@ncsu.edu>
 Date:   Mon Nov 16 19:42:19 2026 -0500
