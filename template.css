@@ -1,0 +1,22 @@
+/*
+ *Name: [Natalie]
+ *UnityID: [nalmanz]
+ *Date: [11-16-26]
+ *Assignment: [Guided Lab 4]
+ *Description: [Guided Lab Assignment, about me webpage]
+ */
+ 
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #2f4f4f;
+}
+
+.table-border {
+    border: 1px solid #2f4f4f;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
+}
